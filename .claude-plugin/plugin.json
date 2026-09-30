@@ -1,6 +1,6 @@
 {
   "name": "whop-business-onboarding",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Plan a Whop business launch, choose payment setup, and get started alongside the existing Whop connector. Independently published by Ladd; includes disclosed referral links.",
   "author": {
     "name": "Ladd"
@@ -12,5 +12,6 @@
     "payments",
     "checkout"
   ],
-  "icon": "./.claude-plugin/icon.png"
+  "icon": "./.claude-plugin/icon.png",
+  "license": "MIT"
 }
