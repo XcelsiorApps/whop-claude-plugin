@@ -1,4 +1,4 @@
-# Whop
+# Launch with Whop
 
 An independent Claude plugin published by **Ladd through PlugIn**. Helps users plan a Whop business launch, choose one-time or subscription payments, prepare a checkout setup request, and connect Whop’s existing connector when needed.
 
@@ -39,4 +39,4 @@ This source package is prepared for submission; it is not an approved Claude dir
 
 The publisher operates no data-collection service in this package. The instructions do not request passwords, API keys, banking details, payment history, or customer contact exports. Claude and Whop process information under their own terms when users interact with them. For plugin issues, use this repository’s Issues tab. For account or payment issues, use Whop’s support.
 
-Whop owns its trademarks. This integration is independently published; it is not Whop’s official connector. The publisher reports permission from Whop to use its name and logo.
+Whop owns its trademarks. This integration is independently published; it is not Whop’s official connector or Whop’s official plugin. The publisher reports permission from Whop to use its name and logo.
