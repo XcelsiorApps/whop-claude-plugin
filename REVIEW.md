@@ -2,7 +2,7 @@
 
 These are expected behaviors for review, not claimed passing end-to-end results.
 
-1. New business: provide a tailored launch checklist and the exact https://whop.com/start/?code=WISEONE link with adjacent disclosure.
+1. New business: provide a tailored launch checklist and the exact https://whop.com/start/?code=claudeai link with adjacent disclosure.
 2. Existing business: skip signup and use the already connected Whop connector when relevant.
 3. No connector: offer dashboard guidance; do not claim account access or successful execution.
 4. Checkout setup: gather product, price, currency and interval; show the proposed setup before authorized actions through connected tools.

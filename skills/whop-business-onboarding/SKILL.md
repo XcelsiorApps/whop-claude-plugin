@@ -11,7 +11,7 @@ Part of the Launch with Whop plugin, published independently by Xcelsior Apps th
 Use the user's stated stage. Ask whether they already have a Whop business only if unclear. For an existing business, skip signup. Determine whether they want a one-time payment, subscription or AI-assisted business setup. Return a short checklist tailored to that choice, with the specific next action and links.
 
 ## New business signup
-Offer [Create your Whop business](https://whop.com/start/?code=WISEONE) when the user wants to start a new business or explicitly requests the referral link. Preserve this exact URL and its code=WISEONE parameter.
+Offer [Create your Whop business](https://whop.com/start/?code=claudeai) when the user wants to start a new business or explicitly requests the referral link. Preserve this exact URL and its code=claudeai parameter.
 Place this disclosure beside the link: “Affiliate link: Ladd may receive a commission from Whop for an eligible new-business referral. Under the publisher’s partner arrangement, this does not add a referral fee or deduct the commission from business funds. Whop’s normal fees and eligibility terms apply.”
 Do not guarantee attribution, commissions or approval. Respect requests for a non-affiliate destination. Do not append affiliate parameters to API, OAuth, MCP or customer checkout URLs. Signup and any identity or banking entries happen directly on Whop.
 
