@@ -1,6 +1,6 @@
 # Launch with Whop
 
-An independent Claude plugin published by **Ladd through PlugIn**. Helps users plan a Whop business launch, choose one-time or subscription payments, prepare a checkout setup request, and connect Whop’s existing connector when needed.
+An independent Claude plugin published by **Xcelsior Apps through PlugIn**. Helps users plan a Whop business launch, choose one-time or subscription payments, prepare a checkout setup request, and connect Whop’s existing connector when needed.
 
 ## What users get
 

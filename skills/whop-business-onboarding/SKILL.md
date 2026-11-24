@@ -5,7 +5,7 @@ description: Guide new merchants through Whop signup, payment setup and connecti
 
 # Whop business onboarding
 
-Part of the Launch with Whop plugin, published independently by Ladd through PlugIn. It is not Whop's official plugin. This skill provides guidance; it does not operate a server, authenticate a Whop account or grant access to Whop tools.
+Part of the Launch with Whop plugin, published independently by Xcelsior Apps through PlugIn. It is not Whop's official plugin. This skill provides guidance; it does not operate a server, authenticate a Whop account or grant access to Whop tools.
 
 ## Identify the next useful step
 Use the user's stated stage. Ask whether they already have a Whop business only if unclear. For an existing business, skip signup. Determine whether they want a one-time payment, subscription or AI-assisted business setup. Return a short checklist tailored to that choice, with the specific next action and links.
