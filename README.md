@@ -13,7 +13,7 @@ An independent Claude plugin published by **Xcelsior Apps through PlugIn**. Help
 
 [Create your Whop business](https://whop.com/start/?code=claudeai)
 
-**Affiliate disclosure:** Ladd may receive a commission from Whop for an eligible new-business referral. Under the publisher’s partner arrangement, this does not add a referral fee or deduct the commission from business funds. Whop’s normal fees and eligibility terms apply. Installing this plugin does not itself establish referral attribution or guarantee commissions.
+**Affiliate disclosure:** Xcelsior Apps may receive a commission from Whop for an eligible new-business referral. Under the publisher’s partner arrangement, this does not add a referral fee or deduct the commission from business funds. Whop’s normal fees and eligibility terms apply. Installing this plugin does not itself establish referral attribution or guarantee commissions.
 
 Existing businesses can skip signup. Requests for a non-affiliate destination are respected.
 
